@@ -1,4 +1,4 @@
-## Two functions to create, cache and return the inverse of a MAtrix.
+## Two functions to create, cache and return the inverse of a matrix.
 
 ## This function sets the value of the matrix, gets the value of the matrix, sets its inverse and gets its inverse
 
